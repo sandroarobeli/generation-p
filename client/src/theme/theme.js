@@ -9,7 +9,7 @@ const theme = createTheme({
     },
   },
   typography: {
-    fontFamily: "Segoe UI, Roboto, Helvetica, Arial, sans-serif",
+    fontFamily: "Roboto, sans-serif",
     fontSize: 16,
     button: {
       textTransform: "none", // Allows displaying lowercase in <Buttons />
